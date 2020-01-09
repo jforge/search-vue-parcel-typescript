@@ -11,13 +11,13 @@ export default class VsResults extends Vue {
   }
 
   truncate(text, limit) {
-    text = text === undefined ? '' : text;    
+    text = text === undefined ? '' : text;
     const content = text.split(' ').slice(0, limit);
     return content.join(' ');
   }
 
   error(item) {
-    delete item.thumb;
+    delete item.media[0].gif.url;
     this.$forceUpdate();
   }
 }

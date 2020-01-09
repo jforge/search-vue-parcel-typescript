@@ -2,7 +2,7 @@
   <div id="app">
     <b-navbar toggleable="md" type="light" variant="light">
       <!-- <b-navbar-toggle target="nav_collapse"></b-navbar-toggle> -->
-      <b-navbar-brand href="#">Zerch</b-navbar-brand>
+      <b-navbar-brand href="#">GCME Ltd.</b-navbar-brand>
     </b-navbar>
     <div class="container-fluid">
       <div class="row mx-auto">
