@@ -20,7 +20,6 @@
     "parcel-bundler": "^1.9.1",
     "posthtml": "^0.11.3",
     "rimraf": "^3.0.0",
-    "ts-clean": "^1.0.3",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2",
     "vue-hot-reload-api": "^2.3.0",
