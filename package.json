@@ -6,7 +6,8 @@
   "scripts": {
     "test": "test",
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html",
+    "clean": "rimraf dist/*.js dist/*.js.map dist/*.css dist/*.css.map"
   },
   "author": "scott",
   "license": "MIT",
@@ -15,9 +16,11 @@
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "parcel-bundler": "^1.9.1",
     "posthtml": "^0.11.3",
+    "rimraf": "^3.0.0",
+    "ts-clean": "^1.0.3",
     "tslint": "^5.10.0",
     "typescript": "^2.9.2",
     "vue-hot-reload-api": "^2.3.0",
