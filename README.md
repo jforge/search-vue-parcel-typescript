@@ -1,4 +1,4 @@
-# search-vue-parcel-typescript
+# Vue.js Search SPA with Parcel bundler
 
 An example of Vue.js with Typescript and Parcel.
 
