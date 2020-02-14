@@ -4,7 +4,7 @@ An example of Vue.js with Typescript and Parcel.
 
 This SPA is meant to be deployed on a static site storage like AWS S3.
 
-Calls a 3rd party API to find things...
+Calls a third party API to find things...
 
 ## Amplified
 
